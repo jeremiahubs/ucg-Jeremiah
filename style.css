@@ -14,3 +14,20 @@ body {
 p {
   color: #1b2a41;
 }
+ul li {
+  color: #1b2a41;
+}
+ul {
+  list-style-type: circle;
+}
+
+a:link {
+  color: #1b2a41;
+}
+a:visited {
+  color: #362033;
+}
+.link {
+  color: #70587c;
+}
+
